@@ -1,2 +1,2 @@
 # ICS3-ISP
-Final Project for ICS 11
+We created a hangman game using hsa console for the ICS3 final culminating
