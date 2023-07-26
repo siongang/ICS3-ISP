@@ -1,2 +1,2 @@
 # ICS3-ISP
-We created a hangman game using hsa console for the ICS3 final culminating
+We created a hangman game for the ICS3 final culminating using hsa console 
